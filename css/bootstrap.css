@@ -3035,7 +3035,7 @@ output {
   padding: 10px 20px;
   font-size: 14px;
   line-height: 1.42857;
-  color: #07070785;
+  color: #555555;
   background-color: #07070785;
   background-image: none;
   border: 1px solid rgb(20, 6, 6);
@@ -3069,7 +3069,7 @@ output {
 
 .form-control[disabled], .form-control[readonly],
 fieldset[disabled] .form-control {
-  background-color: #121111;
+  background-color: #12111185;
   opacity: 1;
 }
 
